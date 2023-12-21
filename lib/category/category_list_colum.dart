@@ -15,10 +15,10 @@ class _CategoryListColumnState extends State<CategoryListColumn> {
     final them = Theme.of(context);
 
     final List<Map<String, Object>> catItem = [
-      {'id': 1, 'name': 'Atlas'},
-      {'id': 2, 'name': 'Barhat'},
-      {'id': 3, 'name': 'Shifon'},
-      {'id': 4, 'name': 'Cupra'},
+      {'id': 1, 'name': 'Атлас'},
+      {'id': 2, 'name': 'Бархат'},
+      {'id': 3, 'name': 'Шифон'},
+      {'id': 4, 'name': 'Купра'},
     ];
 
     return Scaffold(
